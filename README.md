@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td><img src="PINE%20HAT%20PICTURES/Screenshot%20from%202024-06-19%2018-17-41.png" alt="PineHat 3D PCB" width="500"/></td>
-    <td><img src="PINE%20HAT%20PICTURES/Screenshot%20from%202024-06-19%2018-17-50.png" alt="PineHat 3D PCB" width="500"/></td>
+    <td><img src="PINE HAT PICTURES/Screenshot from 2024-06-19 21-12-04.png" alt="PineHat 3D PCB" width="500"/></td>
+    <td><img src="PINE HAT PICTURES/Screenshot from 2024-06-19 21-12-10.png" alt="PineHat 3D PCB" width="500"/></td>
   </tr>
 </table>
 
